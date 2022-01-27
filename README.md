@@ -1,2 +1,2 @@
 # team5-project
-MFD - Second Semester project 
+This is Team5 - Second Semester project Repository. 
